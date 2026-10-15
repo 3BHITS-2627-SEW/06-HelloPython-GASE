@@ -37,3 +37,13 @@ print("Alternativtext:", alternativText)
 #scanf(&i);
 eingeleseneZahl = int(input("Bitte geben Sie eine Zahl ein: \n"))
 print("Zahl eingelesen vom Typ:", type(eingeleseneZahl))
+
+
+/#**Funktionen
+#int main(void){
+ #   printf("Hello World!");
+  #  return 0;
+  # #/
+
+def main():
+    print("Hello World!"
